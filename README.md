@@ -16,10 +16,10 @@ All your source files should reside in the `/src` directory, with the following 
 src
 |   **/*.html
 |
-└---js
+├---js
 |   |   **/*.js
 |
-└---sass
+├---sass
 |   |   **/*.scss
 |
 └---img
